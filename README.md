@@ -38,5 +38,4 @@ This project solely uses **DialogFlow** to create an artificial conversation ent
  # Created By
  **Mahnoor Shahid** - Initial work
  - Linkedin Profile - https://www.linkedin.com/in/mahnoor-v20399/
- - Website - https://mahnoorshahid.ml
  
